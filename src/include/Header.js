@@ -1,7 +1,7 @@
 import React from 'react';
 import {NavLink} from 'react-router-dom'
 
-const Header = (props) => {
+const Header = () => {
     return (
         <div id='header'>
                 <div className='inner'>
