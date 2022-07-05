@@ -13,8 +13,8 @@ async function getProducts(){
 }
 
 const contentStyle = {
-    height: '160px',
-    color: '#fff',
+    height: '250px',
+    color: '#000',
     lineHeight: '160px',
     textAlign: 'center',
     position : 'absolute',
